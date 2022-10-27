@@ -1,0 +1,11 @@
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\bin\Debug\BasicQueuingCashierBenosa.exe.config
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\bin\Debug\BasicQueuingCashierBenosa.exe
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\bin\Debug\BasicQueuingCashierBenosa.pdb
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\obj\Debug\BasicQueuingCashierBenosa.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\obj\Debug\BasicQueuingCashierBenosa.CashierWindowQueueForm.resources
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\obj\Debug\BasicQueuingCashierBenosa.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\obj\Debug\BasicQueuingCashierBenosa.QueuingForm.resources
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\obj\Debug\BasicQueuingCashierBenosa.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\obj\Debug\BasicQueuingCashierBenosa.exe
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\obj\Debug\BasicQueuingCashierBenosa.pdb
+C:\Users\ComputerLab4PC1\source\repos\BasicQueuingCashierBenosa\obj\Debug\BasicQueuingCashierBenosa.CustomerView.resources

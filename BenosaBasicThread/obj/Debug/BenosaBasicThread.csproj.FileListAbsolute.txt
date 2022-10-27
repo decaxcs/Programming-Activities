@@ -1,0 +1,9 @@
+C:\Users\ComputerLab4PC1\source\repos\BenosaBasicThread\bin\Debug\BenosaBasicThread.exe.config
+C:\Users\ComputerLab4PC1\source\repos\BenosaBasicThread\bin\Debug\BenosaBasicThread.exe
+C:\Users\ComputerLab4PC1\source\repos\BenosaBasicThread\bin\Debug\BenosaBasicThread.pdb
+C:\Users\ComputerLab4PC1\source\repos\BenosaBasicThread\obj\Debug\BenosaBasicThread.csprojAssemblyReference.cache
+C:\Users\ComputerLab4PC1\source\repos\BenosaBasicThread\obj\Debug\BenosaBasicThread.FrmBasicThread.resources
+C:\Users\ComputerLab4PC1\source\repos\BenosaBasicThread\obj\Debug\BenosaBasicThread.Properties.Resources.resources
+C:\Users\ComputerLab4PC1\source\repos\BenosaBasicThread\obj\Debug\BenosaBasicThread.csproj.GenerateResource.cache
+C:\Users\ComputerLab4PC1\source\repos\BenosaBasicThread\obj\Debug\BenosaBasicThread.exe
+C:\Users\ComputerLab4PC1\source\repos\BenosaBasicThread\obj\Debug\BenosaBasicThread.pdb
